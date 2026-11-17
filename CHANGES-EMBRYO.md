@@ -6,3 +6,4 @@ Forked from v0.64.2-86-g2ae6defb (commit 2ae6defb) on 2026-11-16. All changes ar
 |---|---|---|
 | 2026-11-16 | EMBRYO.md, LEGAL.md, CHANGES-EMBRYO.md (new) | Fork notes, legal notes and this list. No original file changed yet. |
 | 2026-11-16 | README.md | Embryo name at the top; the original README follows unchanged |
+| 2026-11-17 | ui/index.html | our name in the title, our font, credit with source link (based on the original) |
